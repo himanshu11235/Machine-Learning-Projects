@@ -1,0 +1,1 @@
+This is a ongoing course project for Machine Learning for Signal processing course. Here the task is to detect and locate the sounds of different category(like dog barking, horn) from a given audio signal which can contain many such non-overlapping sounds.
