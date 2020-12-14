@@ -1,0 +1,1 @@
+This is a self project in which I created YOLO object detection model for detecting objects(person, car, cyclist, van, truck) in an image and draw the bounding boxes around them. These are trained on Kitty-Dataset
