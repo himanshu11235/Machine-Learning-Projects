@@ -1,1 +1,1 @@
-
+This is a course project where I design a Neural Machine Translation with attention mechanism to convert human readable dates format(5th september 2019/september 10th 2020)to machine readable dates(05-09-2019/10-09-2020).
